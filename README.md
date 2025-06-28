@@ -156,6 +156,30 @@ Classification problem to predict student exam performance after completing prer
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=dipanjannC&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 45 mins  ████████████░░░░░░░░░░░░░   48.32%
+Jupyter      8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.19%
+JavaScript   3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31%
+SQL          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.05%
+Other        32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.13%
+```
+<!--END_SECTION:waka-->
+
+---
+
 ## 💭 Current Status
 
 ```javascript
@@ -168,6 +192,41 @@ const dipanjan = {
     motto: "Data-driven decisions make the world better! 🌟"
 };
 ```
+
+---
+
+## 🌍 Visitor Map
+
+<div align="center">
+  
+<img src="https://visitcount.itsvg.in/api?id=dipanjannC&label=Profile%20Views&color=8da3fa&icon=5&pretty=true" alt="Visitor Count"/>
+
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  
+<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" alt="Spotify Now Playing"/>
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon...
+<!-- BLOG-POST-LIST:END -->
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/dipanjannC/dipanjannC/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 

@@ -22,11 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjannC&layout=compact&theme=radical&bg_color=23232e,1f2232,191724&title_color=8da3fa&text_color=c7d0e0&border_radius=16" alt="Top Languages" height="185"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dipanjannC">
-    <img src="https://github-contributions-api.deno.dev/dipanjannC.svg?no-bg=true&columns=14&rows=7" alt="GitHub Contribution Graph" width="700"/>
-  </a>
-</p>
 
 ---
 
